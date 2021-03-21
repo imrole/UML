@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T02:01:19.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="zZORVY0yxPXdggQ24nu5" type="github"><diagram id="YLrL4H3psIg1FyB6SDfq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-21T02:19:08.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qbMVJaCzar2Ugaybem58" version="14.4.9" type="github">
+  <diagram id="YLrL4H3psIg1FyB6SDfq" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_niF-QRg8F9M5NTfjog6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_niF-QRg8F9M5NTfjog6-1" target="_niF-QRg8F9M5NTfjog6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_niF-QRg8F9M5NTfjog6-1" value="请购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_niF-QRg8F9M5NTfjog6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_niF-QRg8F9M5NTfjog6-2" target="_niF-QRg8F9M5NTfjog6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_niF-QRg8F9M5NTfjog6-2" value="审核/下推采购订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_niF-QRg8F9M5NTfjog6-3" value="提交审批/下推到货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_niF-QRg8F9M5NTfjog6-4" value="请购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="106" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
