@@ -1,26 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T02:19:08.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qbMVJaCzar2Ugaybem58" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T09:01:32.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vBurPJkuTX1LyQ_eh-Lx" version="14.4.9" type="github">
   <diagram id="YLrL4H3psIg1FyB6SDfq" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_niF-QRg8F9M5NTfjog6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_niF-QRg8F9M5NTfjog6-1" target="_niF-QRg8F9M5NTfjog6-3">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_niF-QRg8F9M5NTfjog6-1" target="_niF-QRg8F9M5NTfjog6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_niF-QRg8F9M5NTfjog6-1" value="请购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-1" value="请购单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="90" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_niF-QRg8F9M5NTfjog6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_niF-QRg8F9M5NTfjog6-2" target="_niF-QRg8F9M5NTfjog6-4">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_niF-QRg8F9M5NTfjog6-2" target="_niF-QRg8F9M5NTfjog6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_niF-QRg8F9M5NTfjog6-2" value="审核/下推采购订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-2" value="审核/下推采购订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="150" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_niF-QRg8F9M5NTfjog6-3" value="提交审批/下推到货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-3" value="提交审批/下推到货单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="210" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_niF-QRg8F9M5NTfjog6-4" value="请购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_niF-QRg8F9M5NTfjog6-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;采购入库单&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="270" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3uIPn2y5vlllESMJh0J-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;生成采购发票&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3uIPn2y5vlllESMJh0J-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_niF-QRg8F9M5NTfjog6-4" target="T3uIPn2y5vlllESMJh0J-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="310" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
