@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T01:08:42.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="8ZCxn92qI0g8fOY5spxQ" type="github"><diagram id="noRylu0ox3mhe_qdAJQi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T01:11:05.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3-1jSPa-gmq5-ebco-Ud" version="14.4.9" type="github">
+  <diagram id="noRylu0ox3mhe_qdAJQi" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pk5DteaUfdAqeDlNOR3J-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pk5DteaUfdAqeDlNOR3J-1" target="Pk5DteaUfdAqeDlNOR3J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk5DteaUfdAqeDlNOR3J-1" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;数字化建模&lt;span lang=&quot;EN-US&quot;&gt;---&lt;/span&gt;基础数据&lt;span lang=&quot;EN-US&quot;&gt;---&lt;/span&gt;物料&lt;span lang=&quot;EN-US&quot;&gt;---&lt;/span&gt;物料档案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk5DteaUfdAqeDlNOR3J-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pk5DteaUfdAqeDlNOR3J-2" target="Pk5DteaUfdAqeDlNOR3J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk5DteaUfdAqeDlNOR3J-2" value="新增" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk5DteaUfdAqeDlNOR3J-4" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
