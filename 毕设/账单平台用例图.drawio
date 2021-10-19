@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T08:05:52.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="S930D540IXVK942Y9Oih" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T08:13:47.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IDWa-yQt29VtGpqqK-sL" version="15.5.4" type="github">
   <diagram id="LdnySO75mPRq6Vrrhr-n" name="Page-1">
     <mxGraphModel dx="1246" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;个人记账平台&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="30" width="580" height="390" as="geometry" />
+          <mxGeometry x="350" y="30" width="710" height="390" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="awlwMWy2Pg4UHsQo79Nk-1" target="awlwMWy2Pg4UHsQo79Nk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,25 +29,25 @@
           <mxGeometry x="400" y="60" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-6" value="个人账单种类管理" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="490" y="80" width="100" height="50" as="geometry" />
+          <mxGeometry x="490" y="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-7" value="设置个人账单月额度" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="520" y="170" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-8" value="AI识别账单（包含花销金额、地址等）" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="680" y="140" width="130" height="80" as="geometry" />
+          <mxGeometry x="820" y="90" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="awlwMWy2Pg4UHsQo79Nk-9" value="删除账单" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="530" y="260" width="70" height="50" as="geometry" />
+        <mxCell id="awlwMWy2Pg4UHsQo79Nk-9" value="删除账单" style="ellipse;whiteSpace=wrap;html=1;align=left;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="545" y="290" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-11" value="查看个人账单" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="470" y="340" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="340" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-12" value="根据账单种类统计个人账单" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="670" y="260" width="80" height="50" as="geometry" />
+          <mxGeometry x="860" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-13" value="根据月份统计个人账单" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="790" y="260" width="80" height="50" as="geometry" />
+          <mxGeometry x="870" y="200" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;企业记账平台（前台）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="540" width="580" height="390" as="geometry" />
@@ -105,6 +105,30 @@
         </mxCell>
         <mxCell id="awlwMWy2Pg4UHsQo79Nk-46" value="设置员工审核规则" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-FmP_P2l_tWvEKvUL6z-1" value="个人账务统计" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-FmP_P2l_tWvEKvUL6z-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="awlwMWy2Pg4UHsQo79Nk-1" target="O-FmP_P2l_tWvEKvUL6z-1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-FmP_P2l_tWvEKvUL6z-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-FmP_P2l_tWvEKvUL6z-1" target="awlwMWy2Pg4UHsQo79Nk-13">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-FmP_P2l_tWvEKvUL6z-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-FmP_P2l_tWvEKvUL6z-1" target="awlwMWy2Pg4UHsQo79Nk-12">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
